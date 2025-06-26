@@ -1,0 +1,7 @@
+401
+application/json; charset=utf-8
+utf-8
+{"message":"Requires authentication","documentation_url":"https://docs.github.com/rest/users/users#get-the-authenticated-user","status":"401"}
+200
+application/json; charset=utf-8
+utf-8
